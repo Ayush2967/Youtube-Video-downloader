@@ -5,4 +5,5 @@ Chrome Extension to dowload any Youtube. This extension add download button to e
 <hr>
 <p align="center">
   
-  Made by Ayush Jain with ❤️❤️</p>
+  Made by Ayush Jain with ❤️❤
+</p>
